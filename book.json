@@ -1,0 +1,58 @@
+{
+    "root": ".",
+    "author": "isunyuan",
+    "title": "isunyuan.com",
+    "language": "zh-hans",
+    "description": "books",
+    "direction": "ltr",
+    "gitbook": ">=3.2.3",
+    "plugins": [
+        "-sharing",
+        "-search",
+        "-lunr",
+        "-highlight",
+        "search-pro",
+        "hide-element",
+        "tbfed-pagefooter",
+        "splitter",
+        "back-to-top-button",
+        "github",
+        "favicon",
+        "popup",
+        "prism",
+        "sitemap-general",
+        "code",
+        "advanced-emoji"
+    ],
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [".gitbook-link", ".copyright"]
+        },
+        "tbfed-pagefooter": {
+            "copyright": "test",
+            "modify_label": "最后修改时间：",
+            "modify_format": "YYYY-MM-DD"
+        },
+        "github": {
+            "url": "https://github.com/isunyuan"
+        },
+        "favicon": {
+            "shortcut": "assets/images/favicon.ico",
+            "bookmark": "assets/images/favicon.ico",
+            "appleTouch": "assets/images/favicon.ico",
+            "appleTouchMore": {
+                "120x120": "assets/images/favicon.ico",
+                "180x180": "assets/images/favicon.ico"
+            }
+        },
+        "sitemap-general": {
+            "prefix": "https://books.isunyuan.com"
+        },
+        "prism": {
+            "lang": {
+                "flow": "typescript"
+            },
+            "css": ["prismjs/themes/prism-solarizedlight.css"]
+        }
+    }
+}
