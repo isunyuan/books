@@ -8,7 +8,7 @@
 
 **技术心得**： 对于一些新技术、酷炫工具或者搞笑插件的记录。
 
-#### 贡献内容
+#### 贡献内容 🤝
 如果你有什么好玩的东西想分享，或者发现了我笔记中的错误，欢迎随时通过 [Issue](https://github.com/isunyuan/books/issues) 或者 [Pull Request](https://github.com/isunyuan/books/pulls) 来告诉我！
 
 #### 闲聊一下 💬
